@@ -17,16 +17,18 @@ Data Science (Machine learning, Deep learning, ...) and Wireless communication (
 
 Below is a short story on my background in electrical engineering education.
 ## Educational background
+I'm studying **M.Sc.** in Telecommunication systems at [University of Tehran](https://ece.ut.ac.ir/en/ece).Nowadays I working in [Sarveen Tech](https://sarveentech.ir) as a R&D for AI and Signal processing engineer. I working and research on dynamic indoor localization with help of machine learning algorithms.
+
 I received a **B.Sc.** degree from the School of Electrical Engineering, [IUST](http://www.iust.ac.ir/en). 
-I have the ability to program in Python and C++ languages. My favorite fields are Artificial intelligence, Wireless Communication, signal processing and especially mobile communication in combination with artificial intelligence tools such as machine learning and deep learning. I have participated in natural language processing and vital signal processing projects with artificial intelligence, and I have experience in working with microcontrollers such as Arduino and STM32 and designing electronic boards in the Altium environment, and I have done various projects both in university and in industry. In addition, working as a team and practical projects are very attractive for me. Nowadays I investigate 5G and 6G Communication such as IRS and UAVs in the Laboratory of Telecommunication Department at IUST.
+I have the ability to program in Python and C++ languages. My favorite fields are Artificial intelligence, Wireless Communication, signal processing and especially mobile communication in combination with artificial intelligence tools such as machine learning and deep learning. I have participated in natural language processing and vital signal processing projects with artificial intelligence, and I have experience in working with microcontrollers such as Arduino and STM32 and designing electronic boards in the Altium environment, and I have done various projects both in university and in industry. In addition, working as a team and practical projects are very attractive for me.
 
 Further more, During my bachelor's degree, I have also concentrated on Machine Learning research in wireless communication and signal processing, specifically Deep Learning models. As a result, for my thesis, I am going to implement a Reinforcement-learning with use of deep-learning models in wireless communication to develop `Cooperative communication with multi-UAVs` to improve parameters of communication's links such as SNR, Bit rate, ... by choosing UAVs optimally under the supervision of [Dr. S. Mohammad Razavizadeh](https://scholar.google.nl/citations?hl=en&user=jtR2cGMAAAAJ), Associate Professor at Iran University of Science and Technology.
 
 [//]: <> (I have recently started my M.Sc. in telecommunications engineering at IUST as I received honorary master's admission from Iran University of Science and Technology.)
 
 ## My main research interests
-- Machine Learning, Deep Learning
-- Reinforcement learning
+- AI : Machine Learning, Deep Learning, Reinforcement learning
+- Signal processing
 - Applications of machine learning in telecommunications
 - wireless Communication (5G, 6G, UAVs, IRS, ...)
 
