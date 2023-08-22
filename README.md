@@ -3,11 +3,14 @@
 
 ## Hello, My name is Amirhosein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.t.me/amirhosein_prdv">
+  <img align="left" alt="Amirhosein's Telegram" width="35px" src="imgs/icons8-telegram.svg" />
+</a>
 <a href="https://twitter.com/Amirhosein_prdv">
-  <img align="left" alt="Amirhosein Pourdavoud | Twitter" width="22px" src="imgs/linkedin-112.svg" />
+  <img align="center" alt="Amirhosein Pourdavoud | Twitter" width="35px" src="imgs/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amirhosein-prdv">
-  <img align="left" alt="Amirhosein's LinkedIn" width="30px" src="imgs/icons8-linkedin.svg" />
+  <img align="left" alt="Amirhosein's LinkedIn" width="35px" src="imgs/icons8-linkedin.svg" />
 </a>
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amirhosein-prdv.amirhosein-prdv)
