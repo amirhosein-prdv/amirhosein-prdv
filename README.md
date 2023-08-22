@@ -4,10 +4,10 @@
 ## Hello, My name is Amirhosein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Amirhosein_prdv">
-  <img align="left" alt="Moein Heidari | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Amirhosein Pourdavoud | Twitter" width="22px" src="imgs/linkedin-112.svg" />
 </a>
-<a href="https://www.linkedin.com/in/amirhosein-pourdavoud-761873105/">
-  <img align="left" alt="Moein's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/amirhosein-prdv">
+  <img align="left" alt="Amirhosein's LinkedIn" width="22px" src="imgs/linkedin-112.svg" />
 </a>
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amirhosein-prdv.amirhosein-prdv)
