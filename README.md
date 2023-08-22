@@ -7,7 +7,7 @@
   <img align="left" alt="Amirhosein Pourdavoud | Twitter" width="22px" src="imgs/linkedin-112.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amirhosein-prdv">
-  <img align="left" alt="Amirhosein's LinkedIn" width="22px" src="imgs/linkedin-112.svg" />
+  <img align="left" alt="Amirhosein's LinkedIn" width="30px" src="imgs/icons8-linkedin.svg" />
 </a>
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amirhosein-prdv.amirhosein-prdv)
