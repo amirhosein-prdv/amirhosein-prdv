@@ -27,12 +27,10 @@ I have the ability to program in Python and C++ languages. My favorite fields ar
 Further more, During my bachelor's degree, I have also concentrated on Machine Learning research in wireless communication and signal processing, specifically Deep Learning models. As a result, for my thesis, I am going to implement a Reinforcement-learning with use of deep-learning models in wireless communication to develop `Cooperative communication with multi-UAVs` to improve parameters of communication's links such as SNR, Bit rate, ... by choosing UAVs optimally under the supervision of [Dr. S. Mohammad Razavizadeh](https://scholar.google.nl/citations?hl=en&user=jtR2cGMAAAAJ), Associate Professor at Iran University of Science and Technology.
 
 ### Resume (CV)
-Enclosed within this section, you will find my curriculum vitae, which serves as a comprehensive documentation of my career trajectory and educational background. By perusing the resume, you will gain insight into the diverse array of professional roles and responsibilities I have undertaken, showcasing my unwavering commitment and proficiency in my chosen field. Additionally, my educational journey has been marked by a steadfast dedication to academic excellence, equipping me with a profound knowledge base and a strong foundation in my area of expertise.
-<a href="resume.pdf">
-  <img align="left" alt="Amirhosein's CV" width="35px" src="imgs/icons8-cv-64.png" />
-</a>
-
-[//]: <> (I have recently started my M.Sc. in telecommunications engineering at University of tehran as I received honorary master's admission from University of Tehran.)
+Enclosed within this section, you will find my curriculum vitae (CV), which serves as a comprehensive documentation of my career trajectory and educational background. By perusing the resume, you will gain insight into the diverse array of professional roles and responsibilities I have undertaken, showcasing my unwavering commitment and proficiency in my chosen field. Additionally, my educational journey has been marked by a steadfast dedication to academic excellence, equipping me with a profound knowledge base and a strong foundation in my area of expertise.
+<div align="center">
+  <img alt="Amirhosein's CV" width="80px" src="imgs/icons8-resume-100.png" />
+</div>
 
 ## My main research interests
 - AI : Machine Learning, Deep Learning, Reinforcement learning
