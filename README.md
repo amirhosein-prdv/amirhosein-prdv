@@ -1,7 +1,7 @@
 # About Me
 # Amirhosein Pourdavoud
 
-## Hello, My name is Amirhosein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, my name is Amirhosein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.t.me/amirhosein_prdv">
   <img align="left" alt="Amirhosein's Telegram" width="35px" src="imgs/icons8-telegram.svg" />
@@ -25,26 +25,26 @@ I am passionate about applying machine learning techniques to solve real-world p
 
 
 
-Below is a short story on my background in electrical/telecommunication engineering education.
+Below is a brief account of my background in electrical/telecommunication engineering education.
 
 
 
 ## Educational background
-I'm studying **M.Sc.** in Telecommunication systems at [University of Tehran](https://ece.ut.ac.ir/en/ece). Nowadays I am working as an R&D for AI and a signal processing engineer. I work and research on dynamic indoor localization with help of machine learning algorithms.
+I have graduated with an M.Sc. in Telecommunication Systems from the [University of Tehran](https://ece.ut.ac.ir/en/ece). Nowadays, I am working as an R&D for AI and a signal processing engineer. I work and research on dynamic indoor localization with the help of machine learning algorithms.
 
 I received a **B.Sc.** degree from the School of Electrical Engineering, [IUST](http://www.iust.ac.ir/en). 
-I can program in Python and C++. My favorite fields are Artificial Intelligence, Wireless Communication, signal processing, and especially mobile communication in combination with artificial intelligence tools such as machine learning and deep learning. I have participated in natural language processing and vital signal processing projects with artificial intelligence, and I have experience in working with microcontrollers such as Arduino and STM32 and designing electronic boards in the Altium environment, and I have done various projects both in university and in industry. In addition, working as a team and on practical projects are very attractive for me.
+I can program in Python and C++. My favorite fields are Artificial Intelligence, Wireless Communication, signal processing, and especially mobile communication in combination with artificial intelligence tools such as machine learning and deep learning. I have participated in natural language processing and vital signal processing projects with artificial intelligence, and I have experience in working with microcontrollers such as Arduino and STM32 and designing electronic boards in the Altium environment. I have done various projects both in university and in industry. In addition, working as a team and on practical projects is very attractive to me.
 
-Further more, During my bachelor's degree, I have also concentrated on Machine Learning research in wireless communication and signal processing, specifically Deep Learning models. As a result, for my thesis, I am going to implement a Reinforcement-learning with the use of deep-learning models in wireless communication to develop `Cooperative communication with multi-UAVs` to improve parameters of communication links such as SNR, Bit rate, ... by choosing UAVs optimally under the supervision of [Dr. S. Mohammad Razavizadeh](https://scholar.google.nl/citations?hl=en&user=jtR2cGMAAAAJ), Associate Professor at Iran University of Science and Technology.
+Furthermore, during my bachelor's degree, I have also concentrated on Machine Learning research in wireless communication and signal processing, specifically Deep Learning models. As a result, for my thesis, I am going to implement a Reinforcement-learning with the use of deep-learning models in wireless communication to develop `Cooperative communication with multi-UAVs` to improve parameters of communication links such as SNR, Bit rate, ... by choosing UAVs optimally under the supervision of [Dr. S. Mohammad Razavizadeh](https://scholar.google.nl/citations?hl=en&user=jtR2cGMAAAAJ), Associate Professor at Iran University of Science and Technology.
 
 ### Resume (CV)
-Enclosed within this section, you will find my curriculum vitae (CV), which serves as a comprehensive documentation of my career trajectory and educational background. By perusing the resume, you will gain insight into the diverse array of professional roles and responsibilities I have undertaken, showcasing my unwavering commitment and proficiency in my chosen field. Additionally, my educational journey has been marked by a steadfast dedication to academic excellence, equipping me with a profound knowledge base and a strong foundation in my area of expertise.
+I've included my curriculum vitae (CV), which is a comprehensive documentation of my career trajectory and educational background. By looking over the resume, you will gain insight into the diverse array of professional roles and responsibilities I have undertaken, showcasing my unwavering commitment and proficiency in my chosen field. Additionally, my educational journey has been marked by a steadfast dedication to academic excellence, equipping me with a profound knowledge base and a strong foundation in my area of expertise.
 <div align="center">
   <img alt="Amirhosein's CV" width="80px" src="imgs/icons8-resume-100.png" />
 </div>
 
 ## My main research interests
-- AI : Machine Learning, Deep Learning, Reinforcement learning
+- AI: Machine Learning, Deep Learning, Reinforcement learning
 - Signal processing
 - Applications of machine learning in telecommunications
 - wireless Communication (5G, 6G, ISAC, UAVs, IRS, ...)
