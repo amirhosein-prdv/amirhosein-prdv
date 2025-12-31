@@ -14,17 +14,28 @@
 </a>
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amirhosein-prdv.amirhosein-prdv)
-A University of Tehran graduate student who is enrolled in the telecommunication systems and data scientist programme. As a dedicated data scientist professional with +3 years of experience, I have worked on a wide range of projects, ranging from Signal processing to computer vision, recommendation systems, transformers and etc. I have developed complex machine learning models and algorithms, created data pipelines, and optimized machine learning models for both accuracy and speed. I have experience with various machine learning frameworks such as TensorFlow, Keras, Scikit-learn, and PyTorch. I am passionate about using machine learning to solve real-world problems and have a strong focus on model accuracy, scalability, and reliability and interpret complex data sets. I possess a strong foundation in mathematical concepts and programming languages such as Python and MATLAB, which have enabled me to analyze complex data sets and derive actionable insights.
+
+
+
+I am a Telecommunications and Data Science Engineer with over 5 years of professional experience in data science and machine learning. I have worked on a wide range of projects spanning signal processing, wireless communication, computer vision, and reinforcement learning.
+
+I have developed complex machine learning models and algorithms, designed and implemented data pipelines, and optimized models for both accuracy and computational efficiency. I am experienced with major machine learning frameworks, including TensorFlow, Keras, Scikit-learn, Gymnasium, Stable-baseline3, and PyTorch.
+
+I am passionate about applying machine learning techniques to solve real-world problems, with a strong focus on model accuracy, scalability, reliability, and the interpretation of complex datasets. My solid foundation in mathematical modeling and programming languages such as Python and MATLAB enables me to analyze complex data and derive actionable insights.
+
+
 
 Below is a short story on my background in electrical/telecommunication engineering education.
 
+
+
 ## Educational background
-I'm studying **M.Sc.** in Telecommunication systems at [University of Tehran](https://ece.ut.ac.ir/en/ece).Nowadays I working in [Sarveen Tech](https://sarveentech.ir) as a R&D for AI and Signal processing engineer. I work and research on dynamic indoor localization with help of machine learning algorithms.
+I'm studying **M.Sc.** in Telecommunication systems at [University of Tehran](https://ece.ut.ac.ir/en/ece). Nowadays I am working as an R&D for AI and a signal processing engineer. I work and research on dynamic indoor localization with help of machine learning algorithms.
 
 I received a **B.Sc.** degree from the School of Electrical Engineering, [IUST](http://www.iust.ac.ir/en). 
-I have the ability to program in Python and C++ languages. My favorite fields are Artificial intelligence, Wireless Communication, signal processing and especially mobile communication in combination with artificial intelligence tools such as machine learning and deep learning. I have participated in natural language processing and vital signal processing projects with artificial intelligence, and I have experience in working with microcontrollers such as Arduino and STM32 and designing electronic boards in the Altium environment, and I have done various projects both in university and in industry. In addition, working as a team and practical projects are very attractive for me.
+I can program in Python and C++. My favorite fields are Artificial Intelligence, Wireless Communication, signal processing, and especially mobile communication in combination with artificial intelligence tools such as machine learning and deep learning. I have participated in natural language processing and vital signal processing projects with artificial intelligence, and I have experience in working with microcontrollers such as Arduino and STM32 and designing electronic boards in the Altium environment, and I have done various projects both in university and in industry. In addition, working as a team and on practical projects are very attractive for me.
 
-Further more, During my bachelor's degree, I have also concentrated on Machine Learning research in wireless communication and signal processing, specifically Deep Learning models. As a result, for my thesis, I am going to implement a Reinforcement-learning with use of deep-learning models in wireless communication to develop `Cooperative communication with multi-UAVs` to improve parameters of communication's links such as SNR, Bit rate, ... by choosing UAVs optimally under the supervision of [Dr. S. Mohammad Razavizadeh](https://scholar.google.nl/citations?hl=en&user=jtR2cGMAAAAJ), Associate Professor at Iran University of Science and Technology.
+Further more, During my bachelor's degree, I have also concentrated on Machine Learning research in wireless communication and signal processing, specifically Deep Learning models. As a result, for my thesis, I am going to implement a Reinforcement-learning with the use of deep-learning models in wireless communication to develop `Cooperative communication with multi-UAVs` to improve parameters of communication links such as SNR, Bit rate, ... by choosing UAVs optimally under the supervision of [Dr. S. Mohammad Razavizadeh](https://scholar.google.nl/citations?hl=en&user=jtR2cGMAAAAJ), Associate Professor at Iran University of Science and Technology.
 
 ### Resume (CV)
 Enclosed within this section, you will find my curriculum vitae (CV), which serves as a comprehensive documentation of my career trajectory and educational background. By perusing the resume, you will gain insight into the diverse array of professional roles and responsibilities I have undertaken, showcasing my unwavering commitment and proficiency in my chosen field. Additionally, my educational journey has been marked by a steadfast dedication to academic excellence, equipping me with a profound knowledge base and a strong foundation in my area of expertise.
